@@ -1,0 +1,12 @@
+---
+title: "This is Ananya!"
+author: "Ananya aka Power"
+date: "2025-05-15"
+categories: [personal]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](D:\ananya_blog\posts\welcome\DP.png)
+
+I am just trying to make a blog by myself.
